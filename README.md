@@ -64,9 +64,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwant176&show_icons=true&theme=tokyonight" alt="Yashwant's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwant176&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant176&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Yashwant176&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwant176&theme=tokyonight" alt="GitHub Streak" height="150"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant176&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/></td>
+    </tr>
+  </table>
 </p>
 
 ---
