@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/Yashwant176">Yashwant176</a></p>
+<p align="center">⭐️ From <a href="https://yashwant.is-a.dev">Yashwant</a></p>
