@@ -66,12 +66,31 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Yashwant176&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwant176&theme=tokyonight" alt="GitHub Streak" height="150"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant176&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/></td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Yashwant176&show_icons=true&theme=tokyonight&cache_seconds=86400"
+          alt="GitHub stats"
+          height="150"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com?user=Yashwant176&theme=tokyonight"
+          alt="GitHub Streak"
+          height="150"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant176&layout=compact&theme=tokyonight&cache_seconds=86400"
+          alt="Top Languages"
+          height="150"
+        />
+      </td>
     </tr>
   </table>
 </p>
+
 
 ---
 
