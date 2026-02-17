@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K. Yashwant Kumar</h1>
+<h1 align="center">Hi 👋, I'm K Yashwant Kumar</h1>
 <h3 align="center">Aspiring Full Stack / Python Developer</h3>
 
 ---
@@ -68,21 +68,21 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=Yashwant176&show_icons=true&theme=tokyonight&cache_seconds=86400"
+          src="https://github-readme-stats.vercel.app/api?username=Yashwant176&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
           alt="GitHub stats"
           height="150"
         />
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com?user=Yashwant176&theme=tokyonight"
+          src="https://streak-stats.demolab.com?user=Yashwant176&theme=tokyonight&hide_border=true"
           alt="GitHub Streak"
           height="150"
         />
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant176&layout=compact&theme=tokyonight&cache_seconds=86400"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant176&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
           alt="Top Languages"
           height="150"
         />
@@ -90,6 +90,7 @@
     </tr>
   </table>
 </p>
+
 
 
 ---
@@ -101,4 +102,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://yashwant.is-a.dev">Yashwant</a></p>
+<p align="center">⭐️ From <a href="https://yashwant.is-a.dev">Yash</a></p>
