@@ -128,6 +128,14 @@ I enjoy building scalable web applications and exploring cloud-native technologi
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Yashwant176/Yashwant176/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 <p align="center">
