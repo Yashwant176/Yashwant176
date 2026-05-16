@@ -1,69 +1,89 @@
-<h1 align="center">Hi 👋, I'm K Yashwant Kumar</h1>
-<h3 align="center">Aspiring Full Stack / Python Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:8A2BE2&height=200&section=header&text=K%20Yashwant%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
----
-
-### 🌎 Social Media:
-<p align="left">
-  <a href="mailto:kumarkyashwant@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/Yashrockz_777?t=4xExwL5QQD4MJOKRLVEurA&s=09" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/yash_it_iz_?igsh=MXAzYXRiMHQ2Nno1cQ==" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yashwant176" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Aspiring+Full+Stack+Developer;DevOps+Enthusiast+"
+    alt="Typing Animation"
+  />
 </p>
 
 ---
 
+## 🚀 About Me
+
+Passionate Full Stack Developer and DevOps enthusiast from India 🇮🇳  
+I enjoy building scalable web applications and exploring cloud-native technologies.
+
+- 💻 Tech Stack: React, Django, Node.js, Docker
+- ⚙️ Learning: Kubernetes, GitHub Actions, AWS
+- 🌱 Currently improving my DevOps & backend development skills
+- 🎯 Open to collaborations and learning opportunities
+---
+
 ### 💻 Coding Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+</p>
 
 ---
 
 ### 💻 Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
+
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+</p>
 
 ---
 
 ### 💻 Backend:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="50" height="50"/>
+</p>
 
 ---
 
 ### 💻 Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ---
 
 ### ⚙️ DevOps / Cloud:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="50" height="50"/>
+</p>
 
 ---
 
 ### 💻 Tools / Sites / Softwares:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+</p>
 
 ---
 
@@ -103,9 +123,51 @@
 
 ### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwant176&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwant176&theme=tokyonight" />
 </p>
 
 ---
 
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Yashwant176&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" 
+    alt="GitHub Trophies" 
+  />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://yashwant.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kyashwantkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/yash_it_iz_?igsh=MXAzYXRiMHQ2Nno1cQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:kumarkayashwant@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashwant176&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/Yashwant176?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<h3 align="center">Building the future one commit at a time 🚀</h3>
 <p align="center">⭐️ From <a href="https://yashwant.is-a.dev">Yash</a></p>
